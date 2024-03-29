@@ -1,0 +1,250 @@
+.trsvg-icon4 {
+  height: 55px;
+  width: 55px;
+  position: relative;
+  border-radius: var(--br-71xl);
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.mutluluk1 {
+  margin-top: -1px;
+  position: relative;
+  line-height: 24px;
+}
+.mutluluk-wrapper {
+  height: 23px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0;
+  box-sizing: border-box;
+}
+.pbundle-marketing-name-one1 {
+  flex: 1;
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-12xs);
+  box-sizing: border-box;
+  min-width: 74px;
+}
+.gb,
+.pbundle-marketing-name-one1,
+.trsvg-parent {
+  display: flex;
+  align-items: center;
+}
+.trsvg-parent {
+  flex: 1;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  gap: 0 19px;
+  min-width: 231px;
+  max-width: 100%;
+}
+.gb {
+  position: absolute;
+  top: -0.5px;
+  left: -0.3px;
+  line-height: 45px;
+  width: 67px;
+  height: 45px;
+}
+.arrow-right2472f8ffsvg-icon1 {
+  position: absolute;
+  top: 17.1px;
+  left: 66.3px;
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+}
+.gb-parent {
+  height: 45px;
+  width: 83px;
+  position: relative;
+  text-align: right;
+  font-size: var(--font-size-11xl);
+  color: var(--www-montyesim-com-checkout-1920x1080-default-shark1);
+}
+.frame-parent9 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  gap: 0 31px;
+  max-width: 100%;
+}
+.frame-wrapper1,
+.separator8 {
+  align-self: stretch;
+  box-sizing: border-box;
+}
+.frame-wrapper1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-5xs) 0 var(--padding-12xs);
+  max-width: 100%;
+}
+.separator8 {
+  height: 1px;
+  position: relative;
+  border-top: 1px solid
+    var(--www-montyesim-com-checkout-1920x1080-default-black-10);
+}
+.available-in1,
+.validity-7-days {
+  position: relative;
+  line-height: 18px;
+}
+.available-in1 {
+  line-height: 21px;
+}
+.trsvg-icon5 {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  border-radius: var(--br-71xl);
+  overflow: hidden;
+  flex-shrink: 0;
+  margin-left: -1px;
+}
+.available-in-group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs) 0 0;
+  text-align: right;
+  font-size: var(
+    --www-montyesim-com-checkout-1920x1080-default-poppins-medium-14-size
+  );
+  color: var(--color-darkslategray-100);
+}
+.validity-7-days-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 var(--padding-5xs) 0 var(--padding-6xs);
+  gap: var(--gap-xl);
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-300);
+}
+.supported-country2 {
+  width: 117.1px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-tajawal);
+  font-size: var(
+    --www-montyesim-com-checkout-1920x1080-default-poppins-medium-14-size
+  );
+  background-color: transparent;
+  height: 21px;
+  position: relative;
+  line-height: 21px;
+  color: var(--color-darkslategray-100);
+  text-align: left;
+  display: flex;
+  align-items: center;
+}
+.divcol-md-5-icon1 {
+  height: 24.6px;
+  width: 199.4px;
+  position: relative;
+}
+.divcard19,
+.frame-parent8 {
+  align-self: stretch;
+  display: flex;
+}
+.divcard19 {
+  border-radius: var(--br-7xs);
+  background-color: var(--color-whitesmoke-100);
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: var(--padding-mini) var(--padding-12xs) var(--padding-mini)
+    var(--padding-mini);
+  gap: var(--gap-xl);
+}
+.frame-parent8 {
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 15px 0;
+  max-width: 100%;
+}
+.buy-now-1 {
+  position: relative;
+  line-height: 24px;
+}
+.button20,
+.divcard18 {
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.button20 {
+  width: 465px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-coral);
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-5xs);
+  white-space: nowrap;
+  text-align: center;
+  color: var(--www-montyesim-com-checkout-1920x1080-default-nero);
+}
+.divcard18 {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--www-montyesim-com-checkout-1920x1080-default-nero);
+  box-shadow: 0 0 25.53px rgba(42, 106, 152, 0.1);
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-4xl) var(--padding-mid);
+  gap: 20px 0;
+  min-width: 385px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-400);
+  font-family: var(
+    --www-montyesim-com-checkout-1920x1080-default-poppins-light-17
+  );
+}
+@media screen and (max-width: 900px) {
+  .gb {
+    font-size: var(--font-size-5xl);
+    line-height: 36px;
+  }
+  .frame-parent9 {
+    gap: 0 31px;
+  }
+  .divcard18 {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .trsvg-parent {
+    flex-wrap: wrap;
+  }
+  .gb {
+    font-size: var(--font-size-lg);
+    line-height: 27px;
+  }
+  .divcard19,
+  .frame-parent9,
+  .validity-7-days-parent {
+    flex-wrap: wrap;
+  }
+}

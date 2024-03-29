@@ -1,0 +1,237 @@
+.qrcirclesdd2d3900svg-icon {
+  height: 291px;
+  width: 285px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -50px;
+  left: -80.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.image-icon {
+  height: 213px;
+  width: 217px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+
+.easy-and-fast3 {
+  position: relative;
+  line-height: 30px;
+}
+
+.easy-and-fast-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xs) 0 0;
+}
+
+.qr-arrow4e8b9d4asvg-icon {
+  height: 30px;
+  width: 39px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+  margin-left: -10px;
+}
+
+.frame-parent20 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.heading-112 {
+  margin: 0;
+  height: 86px;
+  position: relative;
+  font-size: var(--font-size-21xl);
+  line-height: 62px;
+  font-weight: 700;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.button30,
+.download {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.download {
+  width: 109px;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 27px;
+  font-family: var(--www-montyesim-com-checkout-1920x1080-default-poppins-light-17);
+  color: var(--www-montyesim-com-checkout-1920x1080-default-bunting);
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.button30 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-base);
+  background-color: var(--www-montyesim-com-checkout-1920x1080-default-nero);
+  width: 196px;
+  border-radius: var(--br-23xl);
+  flex-direction: row;
+  box-sizing: border-box;
+}
+
+.button30:hover {
+  background-color: var(--color-gainsboro);
+}
+
+.frame-easyandfast,
+.frame-easyandfast-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.frame-easyandfast-wrapper {
+  padding: var(--padding-6xs) 0 0;
+  box-sizing: border-box;
+  min-width: 301px;
+}
+
+.qrcurves963bc650svg-icon {
+  height: 254px;
+  width: 99px;
+  position: absolute;
+  margin: 0 !important;
+  right: -34.5px;
+  bottom: 40px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.cardqrdownloadapp,
+.divcard33 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+.divcard33 {
+  flex: 1;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-burlywood);
+  padding: var(--padding-57xl) 46px;
+  position: relative;
+  gap: 0 30px;
+  justify-content: center;
+}
+
+.cardqrdownloadapp {
+  margin: 0 50px;
+  align-self: stretch;
+  padding: 0 var(--padding-8xs) var(--padding-99xl) var(--padding-9xs);
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--www-montyesim-com-checkout-1920x1080-default-nero);
+  font-family: var(--www-montyesim-com-checkout-1920x1080-default-poppins-light-17);
+}
+
+@media screen and (max-width: 1700px) {
+
+  /* .frame-easyandfast-wrapper,
+  .image-icon {
+    flex: 1;
+  } */
+
+  /* .divcard33 {
+    flex-wrap: wrap;
+  } */
+}
+
+@media screen and (max-width: 1325px) {
+  /* .divcard33 {
+    padding-left: var(--padding-214xl);
+    padding-right: var(--padding-214xl);
+    box-sizing: border-box;
+  } */
+}
+
+@media screen and (max-width: 900px) {
+  .heading-112 {
+    font-size: var(--font-size-13xl);
+    line-height: 50px;
+  }
+
+  .divcard33 {
+    gap: 0 30px;
+    padding-left: var(--padding-97xl);
+    padding-right: var(--padding-97xl);
+    box-sizing: border-box;
+  }
+
+  .cardqrdownloadapp {
+    padding-bottom: var(--padding-58xl);
+    box-sizing: border-box;
+    margin: 0 50px;
+  }
+}
+@media screen and (max-width: 700px)
+{
+  .divcard33 { 
+    gap: 30px 0;
+    flex-wrap: wrap;
+  }
+  .frame-easyandfast-wrapper{
+    align-items: center;
+  }
+  .frame-easyandfast{
+    align-items: center;
+}
+
+}
+
+@media screen and (max-width: 500px) {
+  .easy-and-fast3 {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+
+  .heading-112 {
+    font-size: var(--font-size-5xl);
+    line-height: 37px;
+  }
+
+  .divcard33 {
+    padding: var(--padding-30xl) var(--padding-xl);
+    /* box-sizing: border-box; */
+    border-radius: 15px;
+    justify-content: center;
+  }
+
+  .cardqrdownloadapp {
+    padding: 45px;
+  }
+
+  .frame-easyandfast-wrapper {
+    align-items: center;
+    justify-content: center;
+  }
+
+  .frame-easyandfast {
+    align-items: center;
+    justify-content: center;
+  }
+}

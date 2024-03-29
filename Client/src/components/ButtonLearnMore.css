@@ -1,0 +1,376 @@
+.landmarks570e638bpng-icon {
+  height: 4096px;
+  width: 4096px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -3277.1px;
+  left: calc(50% - 2048px);
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  z-index: 1;
+  animation: rotateImg 50s infinite linear;
+}
+
+@keyframes rotateImg {
+  0% {
+    transform: rotate(360deg);
+  }
+
+  25% {
+    transform: rotate(270deg);
+  }
+
+  50% {
+    transform: rotate(180deg);
+  }
+
+  75% {
+    transform: rotate(90deg);
+  }
+
+  100% {
+    transform: rotate(0deg);
+  }
+
+}
+
+.connected-at-all,
+.make-the-switch {
+  margin: 0;
+}
+
+.heading-1-container4 {
+  width: 100%;
+}
+
+.heading-1-container3,
+.view-all-plans {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+
+.heading-1-container3 {
+  top: 99.5px;
+  left: 491.9px;
+  line-height: 84px;
+  width: 936.3px;
+  height: 168px;
+  z-index: 2;
+}
+
+.view-all-plans {
+  top: 16px;
+  left: calc(50% - 71px);
+  font-size: var(--font-size-lg);
+  line-height: 27px;
+  font-family: var(--www-montyesim-com-checkout-1920x1080-default-poppins-light-17);
+  color: var(--www-montyesim-com-checkout-1920x1080-default-nero);
+  text-align: center;
+  justify-content: center;
+  width: 151px;
+  height: 27px;
+}
+
+.button29 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-burlywood);
+  position: absolute;
+  top: 292px;
+  left: 817px;
+  border-radius: var(--br-23xl);
+  width: 286px;
+  height: 59px;
+  white-space: nowrap;
+  z-index: 2;
+}
+
+.button29:hover {
+  background-color: var(--color-darksalmon);
+}
+
+.car0f709f7cgif-icon {
+  position: absolute;
+  top: 401px;
+  left: 572.5px;
+  width: 685px;
+  height: 380.7px;
+  overflow: hidden;
+  object-fit: cover;
+  z-index: 2;
+}
+
+.divscroller {
+  position: absolute;
+  top: 8px;
+  left: 14px;
+  border-radius: 1.63px;
+  background-color: var(--www-montyesim-com-checkout-1920x1080-default-nero);
+  width: 3px;
+  height: 10px;
+}
+
+.divmousey {
+  position: absolute;
+  top: 1000.5px;
+  left: 960px;
+  border-radius: var(--br-6xl);
+  border: 3px solid var(--www-montyesim-com-checkout-1920x1080-default-nero);
+  box-sizing: border-box;
+  width: 31px;
+  height: 48px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+  z-index: 2;
+}
+
+.whatsapp-logo6d974d7esvg-fil-icon {
+  position: fixed;
+  right: -1%;
+  bottom: -1%;
+  z-index: 10;
+  width: 280px;
+  height: 178.8px;
+  overflow: hidden;
+  object-fit: cover;
+  animation: jump 2.5s infinite linear;
+  cursor: pointer;
+}
+
+@keyframes jump {
+  0% {
+    transform: translateY(20px);
+  }
+
+  40% {
+    transform: translateY(0px);
+  }
+
+  80% {
+    transform: translateY(20px);
+  }
+
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+.divrow-paints {
+  position: absolute;
+  top: -0.5px;
+  left: 0;
+  background: radial-gradient(50% 50%at 50% 50%,
+      rgba(226, 191, 179, 0.23),
+      #e2bfb3);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.divcol-md-12-icon {
+  width: 100%;
+  height: 100%;
+  z-index: 3;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 8px;
+  transform: scale(56.6);
+}
+
+.wrapper-divcol-md-12 {
+  position: absolute;
+  top: 770.1px;
+  left: 0;
+  width: 1950px;
+  height: 1px;
+  z-index: 3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contact-us-button {
+  height: 1080px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+}
+
+.divrow17 {
+  width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  max-width: 101%;
+}
+
+.button-learn-more,
+.user-guide-img {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.user-guide-img {
+  width: 1935px;
+  justify-content: flex-start;
+  max-width: 101%;
+  flex-shrink: 0;
+}
+
+.button-learn-more {
+  align-self: stretch;
+  justify-content: flex-end;
+  max-width: 100%;
+  margin-top: -1px;
+  text-align: center;
+  font-size: var(--font-size-51xl);
+  color: var(--www-montyesim-com-checkout-1920x1080-default-nero);
+  font-family: var(--www-montyesim-com-checkout-1920x1080-default-poppins-light-17);
+}
+
+@media screen and (max-width: 1550px) {
+  .heading-1-container3{
+    left:320px;
+    /* font-size: 60px; */
+  }
+  .button29{
+    left:650px;
+  }
+  .car0f709f7cgif-icon{
+    left: 430px
+  }
+  .divcol-md-12-icon{
+    left: -150px;
+  }
+  .divmousey {
+    left: 830px;
+  }
+}
+@media screen and (max-width: 1350px) {
+  .heading-1-container3{
+    left:220px;
+    /* font-size: 60px; */
+  }
+  .button29{
+    left:550px;
+  }
+  .car0f709f7cgif-icon{
+    left: 330px
+  }
+  .divcol-md-12-icon{
+    left: -260px;
+  }
+  .divmousey {
+    left: 680px;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .heading-1-container3{
+    left:120px;
+    font-size: 60px;
+  }
+  .button29{
+    left:450px;
+  }
+  .car0f709f7cgif-icon{
+    left: 230px
+  }
+  .divcol-md-12-icon{
+    left: -360px;
+  }
+  .divmousey {
+    left: 580px;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .heading-1-container3{
+    left:50px;
+    font-size: 50px;
+  }
+  .button29{
+    left:400px;
+  }
+  .car0f709f7cgif-icon{
+    left: 130px
+  }
+  .divcol-md-12-icon{
+    left: -460px;
+  }
+  .divmousey {
+    left: 520px;
+  }
+}
+@media screen and (max-width: 900px) {
+  /* .heading-1-container3 {
+    font-size: var(--font-size-37xl);
+    line-height: 67px;
+  } */
+  .heading-1-container3{
+    left:0;
+    font-size: 45px;
+  }
+  .button29{
+    left:300px;
+  }
+  .car0f709f7cgif-icon{
+    left: 80px
+  }
+  .divcol-md-12-icon{
+    left: -490px;
+  }
+  .divmousey {
+    left: 450px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .heading-1-container3 {
+    left: 35px;
+    top: 0px;
+    font-size: 20px !important;
+    line-height: 27px;
+    width: 305px;
+  }
+
+  .car0f709f7cgif-icon {
+    top: 240px;
+    left: 2px;
+    width: 335px;
+    height: 200px;
+  }
+
+  .button29 {
+    top: 152px;
+    font-size: 20px;
+    left: 60px;
+    width: 256px;
+    height: 59px;
+  }
+
+  .heading-1-container3 {
+    font-size: var(--font-size-23xl);
+    line-height: 50px;
+  }
+
+  .landmarks570e638bpng-icon {
+    top: -104px;
+  }
+
+  .whatsapp-logo6d974d7esvg-fil-icon {
+    height: 150px;
+    width: 250px;
+  }
+
+}

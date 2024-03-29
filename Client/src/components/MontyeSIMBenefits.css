@@ -1,0 +1,362 @@
+.pariswindow8faf04c0svg-icon {
+  height: 552px;
+  width: 503px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  max-width: 100%;
+}
+
+.paris-window-icon {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+
+.app-with-any,
+.monty-esim-provides,
+.the-world,
+.vacation-you-can,
+.whether-youre-a {
+  margin: 0;
+}
+
+.monty-esim-provides-container {
+  position: relative;
+  line-height: 24px;
+  font-weight: 300;
+  display: inline-block;
+  max-width: 100%;
+}
+
+.and-vat-169296852,
+.laws-of-england,
+.monty-uk-global,
+.queen-victoria-street3 {
+  margin: 0;
+}
+
+.monty-uk-global-container {
+  position: relative;
+  line-height: 24px;
+  font-weight: 300;
+  display: inline-block;
+  max-width: 100%;
+}
+
+.connectivity-icon {
+  width: 552px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 48px 0;
+  min-width: 552px;
+  max-width: 100%;
+}
+
+.connected,
+.esim,
+.stay,
+.with-monty {
+  margin: 0;
+}
+
+.stay-connected-with-container1 {
+  width: 100%;
+}
+
+.stay-connected-with-container {
+  margin: 0;
+  /* width: 431px; */
+  position: relative;
+  font-size: inherit;
+  line-height: 80px;
+  font-weight: 700;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  /* min-width: 431px;
+  max-width: 100%; */
+}
+
+.hotballoon370e73b8svg-icon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 36px;
+  max-height: 100%;
+  width: 244px;
+  overflow: hidden;
+  object-fit: cover;
+}
+
+.whatsapp-logo6d974d7esvg-icon3 {
+  position: fixed;
+  right: -1%;
+  bottom: -1%;
+  z-index: 10;
+  width: 280px;
+  height: 178.8px;
+  overflow: hidden;
+  object-fit: cover;
+  animation: jump 2.5s infinite linear;
+  cursor: pointer;
+}
+
+@keyframes jump {
+  0% {
+    transform: translateY(20px);
+  }
+
+  40% {
+    transform: translateY(0px);
+  }
+
+  80% {
+    transform: translateY(20px);
+  }
+
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+.hot-balloon-icon {
+  align-self: stretch;
+  height: 498px;
+  position: relative;
+}
+
+.mobile-info-frame {
+  width: 280px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-102xl) 0 0;
+  box-sizing: border-box;
+  min-width: 280px;
+}
+
+.footer-link-bar,
+.whats-app-logo2 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+
+.whats-app-logo2 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+
+.footer-link-bar {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-5xl);
+  box-sizing: border-box;
+  min-width: 614px;
+  font-size: var(--font-size-49xl);
+  color: var(--color-coral);
+}
+
+.montye-s-i-m-benefits,
+.montye-s-i-m-providers {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+.montye-s-i-m-providers {
+  width: 1612px;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-xl);
+  gap: 0 95px;
+  flex-shrink: 0;
+}
+
+.montye-s-i-m-benefits {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-48xl);
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--www-montyesim-com-checkout-1920x1080-default-bunting);
+  font-family: var(--www-montyesim-com-checkout-1920x1080-default-poppins-light-17);
+}
+
+@media screen and (max-width: 1400px) {
+  /* .connectivity-icon {
+    flex: 1;
+  } */
+  .montye-s-i-m-providers {
+    flex-wrap: wrap;
+  }
+  
+  .mobile-info-frame {
+    width: 0;
+    height: 0;
+    padding: 0;
+  }
+  
+  .hot-balloon-icon {
+    position: unset;
+    width: 0;
+    height: 0;
+  }
+  .stay-connected-with-container{
+    position: absolute;
+    top: 15%;
+    left: 55%;
+    font-size: 50px;
+  }
+
+  .hotballoon370e73b8svg-icon {
+    width: 19%;
+    height: 13%;
+    top: 23%;
+    left: 81%;
+    object-fit: fill;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .montye-s-i-m-benefits {
+    padding-bottom: var(--padding-25xl);
+    box-sizing: border-box;
+  }
+  .stay-connected-with-container{
+    left: 60%;
+  }
+}
+@media screen and (max-width: 1050px){
+  .hotballoon370e73b8svg-icon{
+    /* width: 19%; */
+    height: 11%;
+    top: 21%;
+  }
+}
+@media screen and (max-width: 920px){
+  .stay-connected-with-container{
+    display: none;
+  }
+  .hotballoon370e73b8svg-icon{
+    /* width: 19%; */
+    /* height: 11%; */
+    top: 18%;
+  }
+}
+@media screen and (max-width: 825px) {
+  .connectivity-icon {
+    gap: 48px 0;
+    /* min-width: 100%; */
+  }
+
+  .stay-connected-with-container {
+    font-size: var(--font-size-35xl);
+    line-height: 64px;
+    flex: 1;
+    /* min-width: 100%; */
+  }
+
+  .mobile-info-frame {
+    flex: 1;
+    padding-top: var(--padding-60xl);
+    box-sizing: border-box;
+  }
+
+  .whats-app-logo2 {
+    flex-wrap: wrap;
+  }
+
+  .footer-link-bar {
+    min-width: 100%;
+  }
+
+  .montye-s-i-m-providers {
+    gap: 0 95px;
+  }
+
+  .montye-s-i-m-benefits {
+    padding-bottom: var(--padding-10xl);
+    box-sizing: border-box;
+  }
+  
+}
+@media screen and (max-width: 700px)
+{
+  .hotballoon370e73b8svg-icon{
+    height: fit-content;
+    /* top: 11%; */
+  }
+}
+
+
+@media screen and (max-width: 560px) {
+.connectivity-icon {
+  min-width: fit-content;
+}}
+
+@media screen and (max-width: 500px) {
+  .stay-connected-with-container {
+    font-size: var(--font-size-22xl);
+    line-height: 48px;
+  }
+
+  .montye-s-i-m-providers {
+    gap: 0 95px;
+  }
+
+  .paris-window-icon {
+    /* margin-right: 0; */
+    width: 362px;
+    height: 410px;
+  }
+
+  .pariswindow8faf04c0svg-icon {
+    left: -30%;
+    height: 100%;
+    width: 100%;
+  }
+
+  .montye-s-i-m-providers {
+    padding: 0;
+  }
+  .hotballoon370e73b8svg-icon {
+    /* width: 122px;
+    height: 220px; */
+    object-fit: contain;
+    top: 13%;
+    /* left: 72%; */
+    /* left: 25%; */
+  }
+
+  .stay-connected-with-container {
+    display: none;
+  }
+
+  .monty-uk-global-container,
+  .monty-esim-provides-container {
+    margin: 20px;
+    font-weight: 400;
+  }
+
+  .whatsapp-logo6d974d7esvg-icon3 {
+    height: 150px;
+    width: 250px;
+    /* right: 10%; */
+  }
+}

@@ -1,0 +1,1372 @@
+.payment-status {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 20px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.payment-status.processing h2{
+  color: #ffc107be;
+}
+
+.payment-status.success h2{
+  color: #28a74691;
+}
+
+.payment-status.failed h2{
+  color: #dc3546a1;
+}
+
+
+
+.payment-status-text {
+  color: #14183e;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.payment-status-text h2 {
+  margin: 0;
+  font-size: 28px;
+}
+
+.payment-status-text p {
+  margin: 0;
+  font-size: 18px;
+}
+
+.esim20logo39c714e3svg-icon {
+  align-self: stretch;
+  height: 40px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.esim20logo39c714e3svg-fill {
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.esim20logo39c714e3svg {
+  width: 107px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divcol-1,
+.link2 {
+  display: flex;
+  align-items: center;
+}
+.link2 {
+  width: 197px;
+  flex-direction: row;
+  justify-content: flex-end;
+  cursor: pointer;
+}
+.divcol-1 {
+  width: 137px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-8xs) 20.079999923706055px var(--padding-8xs) 0;
+  box-sizing: border-box;
+  max-width: 137px;
+}
+.plans {
+  position: relative;
+  line-height: 22.5px;
+  font-weight: 600;
+  color: inherit;
+  text-decoration: none;
+}
+.link3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 0.75px;
+}
+.how-it-works {
+  position: relative;
+  line-height: 22.5px;
+  font-weight: 600;
+  color: inherit;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.link4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 0.75px;
+}
+.partnership {
+  position: relative;
+  line-height: 22.5px;
+  font-weight: 600;
+  color: inherit;
+  text-decoration: none;
+}
+.link5 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 0.75px;
+}
+.about-us {
+  position: relative;
+  line-height: 22.5px;
+  font-weight: 600;
+  color: inherit;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.link6 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 0.75px;
+}
+.contact-us {
+  position: relative;
+  line-height: 22.5px;
+  font-weight: 600;
+  color: inherit;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.link7 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 0.75px;
+}
+.divcol-md-12,
+.list {
+  box-sizing: border-box;
+}
+.divcol-md-12 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0.25px var(--padding-xl) var(--padding-12xs-5);
+  gap: 0 70px;
+  max-width: 1292.8299560546875px;
+}
+.list {
+  width: 1340px;
+  padding: var(--padding-5xs) var(--padding-5xl);
+}
+.divcol-10,
+.divnavbarcollapse3,
+.list {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+}
+.divcol-10 {
+  align-items: flex-start;
+  padding: 0 var(--padding-mini);
+  box-sizing: border-box;
+  max-width: 1371px;
+}
+.en6 {
+  position: relative;
+  line-height: 21px;
+  text-transform: capitalize;
+  display: inline-block;
+  max-width: 47px;
+}
+.drop-arrowed3f48dfsvg-icon6 {
+  width: 10px;
+  height: 6px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.drop-arrowed3f48dfsvg-fill {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 7.506947040557861px 0;
+}
+.drop-arrowed3f48dfsvg {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.imgmargin {
+  flex-direction: column;
+  padding: 0 0 0 var(--padding-9xs);
+}
+.divcard15,
+.divrow1,
+.imgmargin {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divrow1 {
+  flex: 1;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 0 var(--padding-3xs) 0 0;
+}
+.divcard15 {
+  margin: 0 !important;
+  position: absolute;
+  width: 3.34%;
+  top: 5px;
+  right: 9.79%;
+  left: 86.87%;
+  border-radius: var(--br-81xl);
+  background-color: var(
+    --www-montyesim-com-checkout-1920x1080-default-athens-gray
+  );
+  flex-direction: column;
+  padding: 8.890000343322754px var(--padding-12xs) 9.390000343322754px
+    13.390000343322754px;
+  box-sizing: border-box;
+  z-index: 1;
+  font-size: var(
+    --www-montyesim-com-checkout-1920x1080-default-poppins-medium-14-size
+  );
+  color: var(--www-montyesim-com-checkout-1920x1080-default-shark1);
+}
+.link8,
+.sign-in5 {
+  white-space: nowrap;
+}
+.sign-in5 {
+  position: relative;
+  font-size: var(--font-size-base);
+  line-height: 24px;
+  font-weight: 300;
+  font-family: var(
+    --www-montyesim-com-checkout-1920x1080-default-poppins-light-17
+  );
+  color: var(--www-montyesim-com-checkout-1920x1080-default-nero);
+  text-align: center;
+  text-decoration: none;
+}
+.link8 {
+  cursor: pointer;
+  border: 0;
+  padding: 6.5px var(--padding-8xl) 9.5px;
+  background-color: var(--color-burlywood);
+  border-radius: var(--br-6xl);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+.button10:hover,
+.link8:hover {
+  background-color: var(--color-darksalmon);
+}
+.divcol-11,
+.divrow,
+.navigation7 {
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+}
+.divcol-11 {
+  width: 137px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 9.079999923706055px 0 var(--padding-mini);
+  max-width: 137px;
+}
+.divrow,
+.navigation7 {
+  flex-direction: row;
+  max-width: 100%;
+}
+.divrow {
+  width: 1645px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 0 0.009999999776482582px 0 0;
+  position: relative;
+  gap: -21.66999999992542px;
+}
+
+.navigation7.transparent {
+  transition: all .5s;
+  box-shadow: none;
+}
+.navigation7 {
+  position: sticky;
+  align-self: stretch;
+  box-shadow: 0 0 25px rgba(42,106,152,.1);
+  justify-content: center;
+  padding: var(--padding-xl) 75px var(--padding-xl) var(--padding-xl);
+  min-height: 64px;
+  text-align: center;
+  font-size: var(
+    --www-montyesim-com-checkout-1920x1080-default-poppins-semibold-15-size
+  );
+  color: var(--www-montyesim-com-checkout-1920x1080-default-black);
+  font-family: var(
+    --www-montyesim-com-checkout-1920x1080-default-poppins-light-17
+  );
+}
+.backbtnaaa182d3svg-icon {
+  height: 16px;
+  width: 8px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.go-back {
+  position: relative;
+  line-height: 21px;
+  font-weight: 300;
+}
+.aboutuslink,
+.contactuslink {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.contactuslink {
+  align-items: flex-end;
+  gap: 0 12px;
+  cursor: pointer;
+}
+.aboutuslink {
+  align-self: stretch;
+  align-items: flex-start;
+}
+.email2 {
+  position: relative;
+  line-height: 20px;
+  font-weight: 300;
+}
+.divrow4,
+.label1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-12xs-5);
+}
+.divrow4 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 0 0 var(--padding-5xs);
+}
+.divrow5 {
+  outline: 0;
+  padding: 14.800000190734863px var(--padding-xl) 25.199999809265137px;
+  font-family: var(
+    --www-montyesim-com-checkout-1920x1080-default-poppins-light-17
+  );
+  font-size: var(
+    --www-montyesim-com-checkout-1920x1080-default-poppins-regular-176-size
+  );
+  color: var(--www-montyesim-com-checkout-1920x1080-default-boulder);
+  border: 0;
+  width: 100%;
+  height: 100%;
+  background: 0 0;
+  position: relative;
+  z-index: 3;
+}
+.email3 {
+  width: 48px;
+  height: 26px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  max-width: 846.5px;
+}
+.divplaceholder,
+.input {
+  flex-direction: column;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.divplaceholder {
+  width: 846px;
+  height: 28px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  align-items: flex-start;
+  padding: var(--padding-12xs) 0;
+}
+.input:focus {
+  border: 1;
+}
+.input {
+  height: 56px;
+  width: 100%;
+  border-radius: var(--br-6xl);
+  background-color: var(--www-montyesim-com-checkout-1920x1080-default-nero);
+  box-shadow: 0 0 25.53px rgba(42, 106, 152, 0.1);
+  padding: 13.800000190734863px var(--padding-xl) 14.199999809265137px;
+  min-height: 54px;
+  position: absolute;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  font-size: large  ;
+  border: 0;
+  /* pointer-events: none; */
+}
+.divcol,
+.divrow3,
+.input,
+.wrapper-divrow {
+  display: flex;
+  align-items: flex-start;
+}
+.wrapper-divrow {
+  position: relative;
+  width: 100%;
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 66px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  box-sizing: border-box;
+  min-width: 250px;
+  font-size: var(
+    --www-montyesim-com-checkout-1920x1080-default-poppins-regular-176-size
+  );
+  color: var(--www-montyesim-com-checkout-1920x1080-default-boulder);
+}
+.divcol,
+.divrow3 {
+  flex: 1;
+}
+.divcol {
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-base) 0 0;
+  box-sizing: border-box;
+  max-width: 886px;
+}
+.divrow3 {
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 100%;
+}
+.label2,
+.labelemail {
+  box-sizing: border-box;
+}
+.labelemail {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xs) var(--padding-8xs) var(--padding-base);
+  max-width: 100%;
+  font-size: var(--font-size-base);
+  color: var(--www-montyesim-com-checkout-1920x1080-default-oxford-blue);
+}
+.label2 {
+  margin: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  border-radius: var(--br-11xs);
+  border: 2px solid var(--www-montyesim-com-checkout-1920x1080-default-scorpion);
+}
+.divform-check {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mini) var(--padding-xs) var(--padding-xl);
+}
+.i-confirm-that {
+  position: relative;
+  line-height: 21px;
+  font-weight: 500;
+  display: inline-block;
+  max-width: 100%;
+}
+.form-checkbox {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  row-gap: 20px;
+  max-width: 100%;
+}
+.and-i-accept {
+  font-weight: 500;
+}
+.and-i-accept,
+.and-i-understand,
+.link-terms4 {
+  position: relative;
+  line-height: 21px;
+}
+.link-terms4 {
+  font-weight: 900;
+  color: var(--color-coral);
+  text-decoration: none;
+}
+.and-i-understand {
+  font-weight: 500;
+  display: inline-block;
+  max-width: 100%;
+}
+.tax {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 3px;
+  max-width: 100%;
+}
+.unlocked-devices {
+  position: relative;
+  line-height: 21px;
+  font-weight: 500;
+}
+.currency-symbol,
+.total-price {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.total-price {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 var(--padding-18xl) 0 var(--padding-33xl);
+  box-sizing: border-box;
+}
+.confirm {
+  position: relative;
+  font-size: var(--font-size-base);
+  line-height: 24px;
+  font-weight: 600;
+  font-family: var(
+    --www-montyesim-com-checkout-1920x1080-default-poppins-light-17
+  );
+  color: var(--www-montyesim-com-checkout-1920x1080-default-nero);
+  text-align: center;
+  display: inline-block;
+  max-width: 207px;
+}
+.button10,
+.divcol-md-122 {
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.button10:disabled {
+  opacity: 0.3;
+  cursor: default;
+
+}
+.button10 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-5xs);
+  background-color: var(--color-burlywood);
+  width: 239px;
+  border-radius: var(--br-23xl);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 239px;
+}
+.divcol-md-122 {
+  width: 100%;
+  align-items: flex-end;
+  padding: var(--padding-5xl) var(--padding-12xl) 0;
+  max-width: 910.5px;
+}
+.back-btn,
+.confirm-btn,
+.divcol-md-121,
+.divcol-md-122 {
+  display: flex;
+  justify-content: flex-start;
+}
+.back-btn {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.confirm-btn,
+.divcol-md-121 {
+  box-sizing: border-box;
+}
+.confirm-btn {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 0 var(--padding-9xs);
+  max-width: 100%;
+  color: var(--www-montyesim-com-checkout-1920x1080-default-shark);
+}
+.divcol-md-121 {
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 var(--padding-lg) var(--padding-5xl) var(--padding-mini);
+  gap: 17px 0;
+  min-width: 379px;
+  max-width: 948px;
+}
+.summary {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 32px;
+  font-weight: 300;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 607.5px;
+}
+.heading-15 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-12xs-5);
+}
+.divcol-md-124,
+.divrow6 {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.divcol-md-124 {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 var(--padding-base) var(--padding-5xs) var(--padding-mini);
+  max-width: 637px;
+}
+.divrow6 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: var(--padding-base) 0 var(--padding-5xl);
+  max-width: 100%;
+  font-size: var(--font-size-5xl);
+}
+.subtotal {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  max-width: 288.75px;
+}
+.divcol-6,
+.ptype-text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ptype-text {
+  align-self: stretch;
+  padding: 0 0 var(--padding-12xs-5);
+}
+.divcol-6 {
+  flex: 1;
+  padding: 0 var(--padding-mini) var(--padding-base);
+  box-sizing: border-box;
+  min-width: 127px;
+  max-width: 319px;
+}
+.u-s-d,
+.usd {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  max-width: 288.75px;
+}
+.pvalue-text {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 1.1368683772161603e-13px var(--padding-12xs-5) 218.19000244140625px;
+  gap: 0 3.4px;
+}
+.divcol-61,
+.divrow7,
+.pvalue-text {
+  display: flex;
+  align-items: flex-start;
+}
+.divcol-61 {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mini) var(--padding-base);
+  box-sizing: border-box;
+  min-width: 127px;
+  max-width: 319px;
+  margin-left: -6.1px;
+  text-align: right;
+}
+.divrow7 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.estimated-tax {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  max-width: 288.75px;
+}
+.divcol-62,
+.ptype-text1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ptype-text1 {
+  align-self: stretch;
+  padding: 0 0 var(--padding-12xs-5);
+}
+.divcol-62 {
+  flex: 1;
+  padding: 0 var(--padding-mini) var(--padding-base);
+  box-sizing: border-box;
+  min-width: 127px;
+  max-width: 319px;
+}
+.div {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  max-width: 288.75px;
+}
+.pvalue-text1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-12xs-5);
+}
+.divcol-63,
+.divrow8 {
+  display: flex;
+  align-items: flex-start;
+}
+.divcol-63 {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mini) var(--padding-base);
+  box-sizing: border-box;
+  min-width: 127px;
+  max-width: 319px;
+  margin-left: -6.1px;
+  text-align: right;
+}
+.divrow8 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.separator4,
+.separatormargin {
+  align-self: stretch;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.separator4 {
+  flex: 1;
+  position: relative;
+  border-top: 1px solid
+    var(--www-montyesim-com-checkout-1920x1080-default-black-10);
+}
+.separatormargin {
+  height: 34px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-5xs) var(--padding-mini) var(--padding-5xl);
+}
+.total {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  max-width: 288.75px;
+}
+.divcol-64,
+.ptype-text2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ptype-text2 {
+  align-self: stretch;
+  padding: 0 0 var(--padding-12xs-5);
+}
+.divcol-64 {
+  flex: 1;
+  padding: 0 var(--padding-mini) var(--padding-base);
+  box-sizing: border-box;
+  min-width: 127px;
+  max-width: 319px;
+}
+.usd1 {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.div1,
+.usd1 {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  max-width: 288.75px;
+}
+.pvalue-text2 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-12xs-5) 182.94000244140625px;
+  gap: 0 5.09px;
+}
+.divcol-65,
+.divrow9,
+.pvalue-text2 {
+  display: flex;
+  align-items: flex-start;
+}
+.divcol-65 {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mini) var(--padding-base);
+  box-sizing: border-box;
+  min-width: 127px;
+  max-width: 319px;
+  margin-left: -6.1px;
+  text-align: right;
+  font-size: var(--font-size-5xl);
+}
+.divrow9 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.divcard16,
+.divcol-md-123 {
+  display: flex;
+  box-sizing: border-box;
+}
+.divcard16 {
+  flex: 1;
+  border-radius: var(--br-11xl);
+  background-color: var(
+    --www-montyesim-com-checkout-1920x1080-default-alice-blue
+  );
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-xl) var(--padding-9xs) var(--padding-xl)
+    var(--padding-8xs);
+  max-width: 100%;
+}
+.divcol-md-123 {
+  width: 680px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-mini) var(--padding-39xl) var(--padding-sm);
+  max-width: 677px;
+  margin-left: -5px;
+  font-size: var(--font-size-base);
+  color: var(--www-montyesim-com-checkout-1920x1080-default-bunting);
+}
+.divrow2,
+.linkplans,
+.navigation-bar {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.divrow2 {
+  flex: 1;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-7xs) 0 0;
+}
+.linkplans,
+.navigation-bar {
+  justify-content: flex-start;
+}
+.linkplans {
+  width: 1656px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 0 var(--padding-11xl);
+}
+.navigation-bar {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  padding: 9% 0 15% 0;
+
+  gap: 85px 0;
+  text-align: left;
+  font-size: var(
+    --www-montyesim-com-checkout-1920x1080-default-poppins-medium-14-size
+  );
+  color: var(--www-montyesim-com-checkout-1920x1080-default-bunting1);
+  font-family: var(
+    --www-montyesim-com-checkout-1920x1080-default-poppins-light-17
+  );
+}
+.whatsapp-logo6d974d7esvg-icon {
+  width: 280px;
+  height: 178.8px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.locationicon1ab2e5b5svg1 {
+  width: 18px;
+  height: 18px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.locationicon1ab2e5b5svg,
+.locationicon1ab2e5b5svg-fill {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.locationicon1ab2e5b5svg {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divfooter-section-icon2,
+.divrow11 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+.divfooter-section-icon2 {
+  height: 48px;
+  width: 48px;
+  border-radius: var(--br-77xl);
+  background-color: var(--www-montyesim-com-checkout-1920x1080-default-nero);
+  padding: var(--padding-mini);
+  box-sizing: border-box;
+}
+.divrow11 {
+  align-self: stretch;
+  flex-wrap: wrap;
+  padding: 0 var(--padding-xl) var(--padding-xl);
+}
+.office {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 30px;
+  font-weight: 300;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 533.3300170898438px;
+}
+.divrow-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.headquarters-bridge-house,
+.queen-victoria-street {
+  margin: 0;
+}
+.headquarters-bridge-house-container {
+  position: relative;
+  font-size: var(--font-size-base);
+  line-height: 24px;
+  font-weight: 300;
+  display: inline-block;
+  max-width: 533.3300170898438px;
+}
+.divcol-md-42,
+.divrow10 {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.divcol-md-42 {
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 0 var(--padding-base);
+  gap: 16px 0;
+  min-width: 335px;
+  max-width: 563px;
+  margin-left: -3.95px;
+}
+.divrow10 {
+  width: 1690px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  padding: 0 var(--padding-4xs) 0 0;
+  max-width: 100%;
+}
+.divfooter2,
+.whats-app-logo1 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-end;
+  max-width: 100%;
+}
+.divfooter2 {
+  background-color: var(--color-coral);
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-21xl);
+  box-sizing: border-box;
+  min-height: 288px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--www-montyesim-com-checkout-1920x1080-default-nero);
+  font-family: var(
+    --www-montyesim-com-checkout-1920x1080-default-poppins-light-17
+  );
+}
+.whats-app-logo1 {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 64px 0;
+  flex-shrink: 0;
+}
+.privacy-policy1 {
+  position: relative;
+  line-height: 21px;
+  font-weight: 300;
+  color: inherit;
+  text-decoration: none;
+}
+.pfooter-bullets {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-8xs) var(--padding-12xs-5) var(--padding-4xs);
+}
+.link9 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+.divcol1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mini);
+  box-sizing: border-box;
+  max-width: 450px;
+}
+.terms-conditions {
+  position: relative;
+  line-height: 21px;
+  font-weight: 300;
+  color: inherit;
+  text-decoration: none;
+}
+.link10,
+.pfooter-bullets1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-12xs-5);
+}
+.link10 {
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-12xs);
+}
+.divcol2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-sm);
+  box-sizing: border-box;
+  max-width: 450px;
+  margin-left: -4px;
+}
+.contact-us1 {
+  position: relative;
+  line-height: 21px;
+  font-weight: 300;
+  color: inherit;
+  text-decoration: none;
+}
+.pfooter-bullets2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-smi) var(--padding-12xs-5) 17.190000534057617px;
+}
+.link11 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+.divcol3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mini);
+  box-sizing: border-box;
+  max-width: 450px;
+  margin-left: -4px;
+}
+.divrow13 {
+  width: 450px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+}
+.div2,
+.monty-esim6 {
+  position: relative;
+  line-height: 21px;
+  font-weight: 300;
+  display: inline-block;
+  max-width: 325.20001220703125px;
+}
+.divcol-sm-12 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-mini) 0 208.8300018310547px;
+  box-sizing: border-box;
+  gap: 0 3.75px;
+  max-width: 355px;
+  text-align: right;
+}
+.divfooter-sub4,
+.divrow12 {
+  box-sizing: border-box;
+  display: flex;
+  max-width: 100%;
+}
+.divrow12 {
+  width: 1420px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 31.5px 0;
+  gap: var(--gap-xl);
+}
+.divfooter-sub4 {
+  align-self: stretch;
+  background-color: var(--color-coral);
+  border-top: 1px solid var(--www-montyesim-com-checkout-1920x1080-default-nero);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-2xs) var(--padding-xl) var(--padding-3xs) 97px;
+  text-align: center;
+  font-size: var(
+    --www-montyesim-com-checkout-1920x1080-default-poppins-medium-14-size
+  );
+  color: var(--www-montyesim-com-checkout-1920x1080-default-nero);
+  font-family: var(
+    --www-montyesim-com-checkout-1920x1080-default-poppins-light-17
+  );
+}
+.wwwmontyesimcom-by-htmltod8 {
+  width: 100%;
+  position: relative;
+  background-color: var(--www-montyesim-com-checkout-1920x1080-default-nero);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1575px) {
+  .divcol-md-12 {
+    display: none;
+    max-width: 100%;
+  }
+  .list {
+    width: 48px;
+  }
+  .divcol-10 {
+    max-width: 100%;
+  }
+}
+@media screen and (max-width: 1275px) {
+  .navigation7 {
+    padding-right: var(--padding-18xl);
+    box-sizing: border-box;
+  }
+  .divcol {
+    max-width: 100%;
+  }
+  .tax {
+    flex-wrap: wrap;
+  }
+  .total-price {
+    padding-left: var(--padding-7xl);
+    box-sizing: border-box;
+  }
+  .divcol-md-121,
+  .divcol-md-122 {
+    max-width: 100%;
+  }
+  .navigation-bar {
+    gap: 85px 0;
+    padding-bottom: 257px;
+    box-sizing: border-box;
+  }
+  .whats-app-logo1 {
+    gap: 64px 0;
+  }
+  .divfooter-sub4 {
+    padding-left: var(--padding-29xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 825px) {
+  .divcol-md-12 {
+    gap: 0 70px;
+  }
+  .form-checkbox {
+    flex-wrap: wrap;
+  }
+  .divcol-md-123,
+  .divcol-md-124,
+  .summary {
+    max-width: 100%;
+  }
+  .navigation-bar {
+    gap: 85px 0;
+  }
+  .divcol-md-42,
+  .headquarters-bridge-house-container,
+  .office {
+    max-width: 100%;
+  }
+  .whats-app-logo1 {
+    gap: 64px 0;
+  }
+  .divfooter-sub4 {
+    padding-left: var(--padding-5xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .divcol-md-12 {
+    gap: 0 70px;
+  }
+  .summary {
+    font-size: var(--font-size-lgi);
+    line-height: 26px;
+  }
+  .pvalue-text {
+    flex-wrap: wrap;
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .div1,
+  .usd1 {
+    font-size: var(--font-size-lgi);
+    line-height: 19px;
+  }
+  .pvalue-text2 {
+    flex-wrap: wrap;
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .navigation-bar {
+    padding-bottom: 167px;
+    box-sizing: border-box;
+  }
+  .office {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+  .divcol1,
+  .divcol2,
+  .divcol3 {
+    max-width: 100%;
+  }
+  .divcol-sm-12 {
+    flex-wrap: wrap;
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

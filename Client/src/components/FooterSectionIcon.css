@@ -1,0 +1,103 @@
+.contact-arrowa4cb5823svg-icon3 {
+  height: 30px;
+  width: 30px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.stay-connected1 {
+  position: relative;
+  line-height: 30px;
+  font-weight: 300;
+}
+.copyright-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-lg) 0 0;
+}
+.contact-arrowa4cb5823svg-parent,
+.phone-number-inner {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.contact-arrowa4cb5823svg-parent {
+  gap: 0 9px;
+}
+.phone-number-inner {
+  padding: 0 var(--padding-sm);
+}
+.heading-17 {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-21xl);
+  line-height: 48px;
+  font-weight: 700;
+  font-family: inherit;
+  color: var(--color-coral);
+}
+.phone-number {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px 0;
+}
+.opportunity-to-become,
+.travel,
+.welcome-to-our {
+  margin: 0;
+}
+.welcome-to-our-container {
+  position: relative;
+  font-size: var(--font-size-xl);
+  line-height: 30px;
+  font-weight: 300;
+}
+.footer-col-m-d {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 38px 0;
+  max-width: 100%;
+}
+.footer-section-icon {
+  width: 1567px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 4% var(--padding-xl) var(--padding-57xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-slategray-200);
+  font-family: var(
+    --www-montyesim-com-checkout-1920x1080-default-poppins-light-17
+  );
+}
+@media screen and (max-width: 900px) {
+  .heading-17 {
+    font-size: var(--font-size-13xl);
+    line-height: 38px;
+  }
+  .footer-col-m-d {
+    gap: 38px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-17 {
+    font-size: var(--font-size-5xl);
+    line-height: 29px;
+  }
+  .welcome-to-our-container {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+}

@@ -1,0 +1,60 @@
+.divfooter-section-icon9 {
+  width: 48px;
+  height: 48px;
+  position: relative;
+  border-radius: var(--br-77xl);
+}
+.office5 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 30px;
+  font-weight: 300;
+  font-family: inherit;
+}
+.headquarters-bridge-house5,
+.queen-victoria-street6 {
+  margin: 0;
+}
+.headquarters-bridge-house-container8 {
+  position: relative;
+  font-size: var(--font-size-base);
+  line-height: 24px;
+  font-weight: 300;
+}
+.divcol-md-49,
+.office-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.office-group {
+  gap: 15px 0;
+  flex-shrink: 0;
+}
+.divcol-md-49 {
+  flex: 1;
+  padding: 0 0 var(--padding-mid);
+  box-sizing: border-box;
+  gap: 20px 0;
+  min-width: 422px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--www-montyesim-com-checkout-1920x1080-default-nero);
+  font-family: var(
+    --www-montyesim-com-checkout-1920x1080-default-poppins-light-17
+  );
+}
+@media screen and (max-width: 900px) {
+  .divcol-md-49 {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .office5 {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+}

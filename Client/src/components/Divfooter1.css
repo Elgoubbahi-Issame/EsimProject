@@ -1,0 +1,72 @@
+.divfooter-section-icon6 {
+  width: 48px;
+  height: 48px;
+  position: relative;
+  border-radius: var(--br-77xl);
+}
+.office3 {
+  position: relative;
+  line-height: 30px;
+}
+.office-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xs) 0 0;
+}
+.headquarters-bridge-house3,
+.queen-victoria-street4 {
+  margin: 0;
+}
+.headquarters-bridge-house-container5 {
+  width: 100%;
+}
+.headquarters-bridge-house-container4 {
+  width: 341.2px;
+  height: 48px;
+  position: relative;
+  font-size: var(--font-size-base);
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.divcol-md-46,
+.divfooter5 {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.divcol-md-46 {
+  width: 563px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-mid);
+  gap: 17px 0;
+}
+.divfooter5 {
+  align-self: stretch;
+  background-color: var(--color-coral);
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: center;
+  padding: var(--padding-21xl) var(--padding-xl);
+  min-height: 288px;
+  row-gap: 20px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--www-montyesim-com-checkout-1920x1080-default-nero);
+  font-family: var(
+    --www-montyesim-com-checkout-1920x1080-default-poppins-light-17
+  );
+}
+@media screen and (max-width: 450px) {
+  .office3 {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+}

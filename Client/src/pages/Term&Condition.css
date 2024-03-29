@@ -1,0 +1,1154 @@
+
+  .navigation-link-esim20log {
+    align-self: stretch;
+    height: 40px;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+  }
+  .frame-navigation {
+    width: 122px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0px 15px 0px 0px;
+    box-sizing: border-box;
+  }
+  .link-plans {
+    position: relative;
+    line-height: 22.5px;
+    font-weight: 600;
+    flex-shrink: 0;
+  }
+  .link-how {
+    position: relative;
+    line-height: 22.5px;
+    font-weight: 600;
+    flex-shrink: 0;
+    white-space: nowrap;
+  }
+  .link-partnership {
+    position: relative;
+    line-height: 22.5px;
+    font-weight: 600;
+    flex-shrink: 0;
+  }
+  .link-about {
+    position: relative;
+    line-height: 22.5px;
+    font-weight: 600;
+    flex-shrink: 0;
+    white-space: nowrap;
+  }
+  .link-contact {
+    position: relative;
+    line-height: 22.5px;
+    font-weight: 600;
+    flex-shrink: 0;
+    white-space: nowrap;
+  }
+  .frame-links {
+    height: 23px;
+    width: 648px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0px 3px 0px 0px;
+    box-sizing: border-box;
+    gap: 0px 67px;
+    max-width: 100%;
+  }
+  .en {
+    position: relative;
+    line-height: 21px;
+    text-transform: capitalize;
+  }
+  .drop-arrowed3f48dfsvg-icon {
+    height: 21px;
+    width: 10px;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .navigation {
+    align-self: stretch;
+    border-radius: 100px;
+    background-color: #f8f9fa;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 9px 11px 9px 14px;
+    gap: 0px 3px;
+  }
+  .sign-in {
+    position: relative;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 300;
+    font-family: Poppins;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+  }
+  .navigation-link {
+    cursor: pointer;
+    border: none;
+    padding: 6px 28px 10px 29px;
+    background-color: #eb224d;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    white-space: nowrap;
+  }
+  .navigation-link:hover {
+    background-color: #ff4773;
+  }
+  .registration-content {
+    align-self: stretch;
+    width: 207px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0px 1px 0px 0px;
+    box-sizing: border-box;
+    gap: 0px 38px;
+    font-size: 14px;
+    color: #212529;
+  }
+  .frame-link-set {
+    align-self: stretch;
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 1px 0px 0px;
+    box-sizing: border-box;
+    gap: 20px;
+    max-width: 100%;
+  }
+  .frame-group-1 {
+    width: 1640px;
+    height: 89px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0px 34px 49px 20px;
+    box-sizing: border-box;
+    max-width: 100%;
+    text-align: center;
+    font-size: 15px;
+    color: #000;
+    font-family: Poppins;
+  }
+  .heading-2 {
+    margin: 0;
+    flex: 1;
+    position: relative;
+    font-size: inherit;
+    line-height: 60px;
+    font-weight: 300;
+    font-family: inherit;
+    display: inline-block;
+    max-width: 100%;
+    flex-shrink: 0;
+  }
+  .header-texts {
+    width: 479px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0px 0px 5px;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .monty-uk-global {
+    margin: 0;
+  }
+  .bridge-house181-queen {
+    margin: 0;
+  }
+  .monty-uk-global-container1 {
+    width: 100%;
+  }
+  .monty-uk-global-container-1 {
+    width: 1479.9px;
+    position: relative;
+    line-height: 25.5px;
+    font-weight: 300;
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+  }
+  .please-take-some {
+    margin: 0;
+  }
+  .have-read-understood {
+    margin: 0;
+  }
+  .agreement-you-do {
+    margin: 0;
+  }
+  .no-agency-partnership {
+    margin: 0;
+  }
+  .in-any-respect {
+    margin: 0;
+  }
+  .please-take-some-container {
+    align-self: stretch;
+    position: relative;
+    line-height: 25.5px;
+    font-weight: 300;
+  }
+  .account-activation {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 26px 0px;
+    max-width: 100%;
+  }
+  .registration-texts {
+    /* align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start; */
+    padding: 0 10%;
+    box-sizing: border-box;
+    max-width: 100%;
+    text-align: left;
+    font-size: 17px;
+    /* font-weight: la; */
+    color: #14183e;
+    font-family: Poppins;
+  }
+  .service-description {
+    margin: 0;
+  }
+  .montyesim-is-prepaid {
+    margin: 0;
+  }
+  .service-description-montyesim-container1 {
+    width: 100%;
+  }
+  .service-description-montyesim-container {
+    width: 1268.4px;
+    position: relative;
+    line-height: 24px;
+    font-weight: 300;
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+  }
+  .registration {
+    margin: 0;
+  }
+  .by-registering-and {
+    margin: 0;
+  }
+  .time-on-the {
+    margin: 0;
+  }
+  .registration-by-registering-container1 {
+    width: 100%;
+  }
+  .registration-by-registering-container {
+    width: 1514.4px;
+    position: relative;
+    line-height: 24px;
+    font-weight: 300;
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+  }
+  .privacy-policy {
+    margin: 0;
+  }
+  .we-are-committed {
+    margin: 0;
+  }
+  .information-from-unauthorized {
+    margin: 0;
+  }
+  .by-accessing-or {
+    margin: 0;
+  }
+  .we-may-use {
+    margin: 0;
+  }
+  .in-addition-we {
+    margin: 0;
+  }
+  .you-might-encounter {
+    margin: 0;
+  }
+  .this-privacy-policy {
+    margin: 0;
+  }
+  .are-responsible-for {
+    margin: 0;
+  }
+  .privacy-policy-we-container1 {
+    width: 100%;
+  }
+  .privacy-policy-we-container {
+    width: 1522.1px;
+    position: relative;
+    line-height: 24px;
+    font-weight: 300;
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+  }
+  .registered-intellectual-proper {
+    margin: 0;
+  }
+  .you-are-not {
+    margin: 0;
+  }
+  .services-without-our {
+    margin: 0;
+  }
+  .monty-mobile-is {
+    margin: 0;
+  }
+  .of-such-rights {
+    margin: 0;
+  }
+  .registered-intellectual-proper-container {
+    flex: 1;
+    position: relative;
+    line-height: 24px;
+    font-weight: 300;
+    display: inline-block;
+    max-width: 100%;
+  }
+  .whatsapp-logo6d974d7esvg-icon {
+    height: 178.8px;
+    width: 280px;
+    margin: 0 !important;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+    position: fixed;
+    right: -1%;
+    bottom: -1%;
+    z-index: 10;
+  }
+  .registered-i-p-rights {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: relative;
+    max-width: 100%;
+  }
+  .montyesim-account {
+    margin: 0;
+  }
+  .i-activation-of {
+    margin: 0;
+  }
+  .you-can-request {
+    margin: 0;
+  }
+  .is-under-your {
+    margin: 0;
+  }
+  .customer-does-not {
+    margin: 0;
+  }
+  .ii-charges {
+    margin: 0;
+  }
+  .the-payment-shall {
+    margin: 0;
+  }
+  .the-currency-of {
+    margin: 0;
+  }
+  .the-creditdebit-card {
+    margin: 0;
+  }
+  .with-stripe-elements {
+    margin: 0;
+  }
+  .your-sensitive-informationfur {
+    margin: 0;
+  }
+  .certification-as-a {
+    margin: 0;
+  }
+  .payment-securityrest-assured {
+    margin: 0;
+  }
+  .bundle-charges {
+    margin: 0;
+  }
+  .iii-termination {
+    margin: 0;
+  }
+  .you-have-the {
+    margin: 0;
+  }
+  .monty-mobile-may {
+    margin: 0;
+  }
+  .terms-and-conditions {
+    margin: 0;
+  }
+  .a-using-andor {
+    margin: 0;
+  }
+  .retailer {
+    margin: 0;
+  }
+  .b-using-your {
+    margin: 0;
+  }
+  .c-using-the {
+    margin: 0;
+  }
+  .d-violating-any {
+    margin: 0;
+  }
+  .iv-consequences-of {
+    margin: 0;
+  }
+  .if-the-service {
+    margin: 0;
+  }
+  .andor-expiration-you {
+    margin: 0;
+  }
+  .montyesim-account-i-container {
+    align-self: stretch;
+    position: relative;
+    line-height: 24px;
+    font-weight: 300;
+  }
+  .use-of-montyesim {
+    margin: 0;
+  }
+  .you-agree-to {
+    margin: 0;
+  }
+  .of-personal-data {
+    margin: 0;
+  }
+  .third-parties {
+    margin: 0;
+  }
+  .it-is-your {
+    margin: 0;
+  }
+  .may-depend-on {
+    margin: 0;
+  }
+  .however-note-that {
+    margin: 0;
+  }
+  .you-have-the1 {
+    margin: 0;
+  }
+  .be-applied-on {
+    margin: 0;
+  }
+  .if-a-user {
+    margin: 0;
+  }
+  .be-used-again {
+    margin: 0;
+  }
+  .upon-esim-deactivation {
+    margin: 0;
+  }
+  .esim-deactivation {
+    margin: 0;
+  }
+  .you-must-inform {
+    margin: 0;
+  }
+  .you-are-solely {
+    margin: 0;
+  }
+  .use-of-montyesim-container {
+    align-self: stretch;
+    height: 384px;
+    position: relative;
+    line-height: 24px;
+    font-weight: 300;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+  }
+  .indemnification1 {
+    margin: 0;
+  }
+  .you-agree-to1 {
+    margin: 0;
+  }
+  .services-to-the {
+    margin: 0;
+  }
+  .indemnification-you-agree-container1 {
+    width: 100%;
+  }
+  .indemnification-you-agree-container {
+    width: 1488.1px;
+    position: relative;
+    line-height: 24px;
+    font-weight: 300;
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+  }
+  .limitation-of-liability {
+    margin: 0;
+  }
+  .except-to-the {
+    margin: 0;
+  }
+  .reputation-business-interrupt {
+    margin: 0;
+  }
+  .under-montyesim-services {
+    margin: 0;
+  }
+  .individuals {
+    margin: 0;
+  }
+  .limitation-of-liability-container1 {
+    width: 100%;
+  }
+  .limitation-of-liability-container {
+    width: 1501.4px;
+    position: relative;
+    line-height: 24px;
+    font-weight: 300;
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+  }
+  .modification {
+    margin: 0;
+  }
+  .we-reserve-the {
+    margin: 0;
+  }
+  .database-or-content {
+    margin: 0;
+  }
+  .of-the-services {
+    margin: 0;
+  }
+  .conditions-in-effect {
+    margin: 0;
+  }
+  .made-if-following {
+    margin: 0;
+  }
+  .modification-we-reserve-container {
+    align-self: stretch;
+    position: relative;
+    line-height: 24px;
+    font-weight: 300;
+  }
+  .governing-law {
+    margin: 0;
+  }
+  .these-terms {
+    margin: 0;
+  }
+  .resolution-or-invalidity {
+    margin: 0;
+  }
+  .notwithstanding-the-above {
+    margin: 0;
+  }
+  .governing-law-these-container1 {
+    width: 100%;
+  }
+  .governing-law-these-container {
+    width: 1518.8px;
+    position: relative;
+    line-height: 24px;
+    font-weight: 300;
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+  }
+  .third-party {
+    margin: 0;
+  }
+  .when-you-access {
+    margin: 0;
+  }
+  .responsible-or-liable {
+    margin: 0;
+  }
+  .shall-not-be {
+    margin: 0;
+  }
+  .services-available-on {
+    margin: 0;
+  }
+  .third-party-when-container1 {
+    width: 100%;
+  }
+  .third-party-when-container {
+    width: 1512.4px;
+    position: relative;
+    line-height: 24px;
+    font-weight: 300;
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+  }
+  .no-waiver {
+    margin: 0;
+  }
+  .our-failure-to {
+    margin: 0;
+  }
+  .any-particular-instance {
+    margin: 0;
+  }
+  .written-notice-of {
+    margin: 0;
+  }
+  .no-waiver-our-container1 {
+    width: 100%;
+  }
+  .no-waiver-our-container {
+    width: 1522.1px;
+    position: relative;
+    line-height: 24px;
+    font-weight: 300;
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+  }
+  .force-majeure {
+    margin: 0;
+  }
+  .we-shall-not {
+    margin: 0;
+  }
+  .without-limitation-mechanical {
+    margin: 0;
+  }
+  .terminated-provided-that {
+    margin: 0;
+  }
+  .force-majeure-we-container1 {
+    width: 100%;
+  }
+  .force-majeure-we-container {
+    width: 1481.6px;
+    position: relative;
+    line-height: 24px;
+    font-weight: 300;
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+  }
+  .warranties {
+    margin: 0;
+  }
+  .montyesim-service-will {
+    margin: 0;
+  }
+  .express-warranty-to {
+    margin: 0;
+  }
+  .warranty-of-fitness {
+    margin: 0;
+  }
+  .which-it-is {
+    margin: 0;
+  }
+  .whatsoever-for-such {
+    margin: 0;
+  }
+  .monty-mobile-is1 {
+    margin: 0;
+  }
+  .network-service {
+    margin: 0;
+  }
+  .warranties-montyesim-service-container {
+    align-self: stretch;
+    position: relative;
+    line-height: 24px;
+    font-weight: 300;
+  }
+  .refer-and-earn {
+    margin: 0;
+  }
+  .the-refer-and {
+    margin: 0;
+  }
+  .considered-successful {
+    margin: 0;
+  }
+  .the-referrer-will {
+    margin: 0;
+  }
+  .the-user-will {
+    margin: 0;
+  }
+  .to-qualify-for {
+    margin: 0;
+  }
+  .the-cashback-will {
+    margin: 0;
+  }
+  .the-cashback-amount {
+    margin: 0;
+  }
+  .the-cashback-can {
+    margin: 0;
+  }
+  .this-offer-is {
+    margin: 0;
+  }
+  .this-program-is {
+    margin: 0;
+  }
+  .refer-and-earn-container1 {
+    width: 100%;
+  }
+  .refer-and-earn-container {
+    width: 1516.4px;
+    position: relative;
+    line-height: 24px;
+    font-weight: 300;
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+  }
+  .data-measurement-and {
+    margin: 0;
+  }
+  .data-shall-be {
+    margin: 0;
+  }
+  .and-systems-may {
+    margin: 0;
+  }
+  .calculated-in-gigabytes {
+    margin: 0;
+  }
+  .when-interpreting-and {
+    margin: 0;
+  }
+  .data-measurement-and-container1 {
+    width: 100%;
+  }
+  .data-measurement-and-container {
+    width: 1521.4px;
+    height: 144px;
+    position: relative;
+    line-height: 24px;
+    font-weight: 300;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    max-width: 100%;
+  }
+  .complaints {
+    margin: 0;
+  }
+  .if-you-have {
+    margin: 0;
+  }
+  .mail-to-supportmontyesimcom {
+    margin: 0;
+  }
+  .complaints-if-you-container1 {
+    width: 100%;
+  }
+  .complaints-if-you-container {
+    width: 1524.5px;
+    position: relative;
+    line-height: 24px;
+    font-weight: 300;
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+  }
+  .indemnification {
+    align-self: stretch;
+    /* display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start; */
+    padding: 0 10%;
+    gap: 50px 0px;
+    max-width: 100%;
+    text-align: left;
+    font-size: 16px;
+    color: #14183e;
+    font-family: Poppins;
+  }
+  .footer-frame-1 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 10% 0;
+    box-sizing: border-box;
+    gap: 49px 0px;
+    max-width: 100%;
+    flex-shrink: 0;
+    text-align: center;
+    font-size: 48px;
+    /* font-weight: 500; */
+    color: #ff7c32;
+    font-family: Poppins;
+  }
+  .divfooter-section-icon {
+    width: 48px;
+    height: 48px;
+    position: relative;
+    border-radius: 96px;
+  }
+  .phone {
+    position: relative;
+    line-height: 30px;
+    font-weight: 300;
+  }
+  .link-44 {
+    position: relative;
+    font-size: 17px;
+    line-height: 25.5px;
+    font-weight: 300;
+    white-space: nowrap;
+  }
+  .phone-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 15px 0px;
+  }
+  .divcol-md-4 {
+    width: 563px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0px 20px 40px 21px;
+    box-sizing: border-box;
+    gap: 20px 0px;
+    min-width: 563.3px;
+    max-width: 100%;
+  }
+  .divfooter-section-icon1 {
+    width: 48px;
+    height: 48px;
+    position: relative;
+    border-radius: 96px;
+  }
+  .email1 {
+    position: relative;
+    line-height: 30px;
+    font-weight: 300;
+  }
+  .link-supportmontyesimcom {
+    position: relative;
+    font-size: 17px;
+    line-height: 25.5px;
+    font-weight: 300;
+    white-space: nowrap;
+  }
+  .email {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 15px 0px;
+  }
+  .divcol-md-41 {
+    width: 564.3px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0px 20px 40px;
+    box-sizing: border-box;
+    gap: 20px 0px;
+    max-width: 100%;
+  }
+  .divfooter-section-icon2 {
+    width: 48px;
+    height: 48px;
+    position: relative;
+    border-radius: 96px;
+  }
+  .office {
+    position: relative;
+    line-height: 30px;
+    font-weight: 300;
+  }
+  .headquarters-bridge-house {
+    margin: 0;
+  }
+  .queen-victoria-street {
+    margin: 0;
+  }
+  .headquarters-bridge-house-container {
+    position: relative;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 300;
+  }
+  .office-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 15px 0px;
+    max-width: 100%;
+    flex-shrink: 0;
+  }
+  .divcol-md-42 {
+    width: 583.3px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0px 0px 17px 20px;
+    box-sizing: border-box;
+    gap: 20px 0px;
+    max-width: 100%;
+    z-index: 1;
+  }
+  .div-footer-sub {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0px 1px;
+    box-sizing: border-box;
+    max-width: 100%;
+    margin-top: -178px;
+  }
+  .divcolmd-1 {
+    width: 1127px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    min-width: 1127px;
+    max-width: 100%;
+  }
+  .divfooter-1 {
+    align-self: stretch;
+    background-color: #ff7c32;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: center;
+    padding: 40px 0px;
+    box-sizing: border-box;
+    gap: 0px 1px;
+    min-height: 288px;
+    max-width: 100%;
+  }
+  .link-privacy {
+    position: relative;
+    line-height: 21px;
+    font-weight: 300;
+    flex-shrink: 0;
+  }
+  .link-terms {
+    position: relative;
+    line-height: 21px;
+    font-weight: 300;
+    flex-shrink: 0;
+  }
+  .link-contact1 {
+    flex: 1;
+    position: relative;
+    line-height: 21px;
+    font-weight: 300;
+    display: inline-block;
+    min-width: 60px;
+    max-width: 100%;
+    flex-shrink: 0;
+  }
+  .terms-conditions-link {
+    width: 1004px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0px 1px 0px 0px;
+    box-sizing: border-box;
+    gap: 0px 38px;
+    max-width: 100%;
+  }
+  .monty-esim {
+    position: relative;
+    line-height: 21px;
+    font-weight: 300;
+    text-align: right;
+  }
+  .divfooter-sub {
+    align-self: stretch;
+    background-color: #ff7c32;
+    border-top: 1px solid #fff;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 42px 225px 42px 312px;
+    gap: 20px;
+    max-width: 100%;
+    z-index: 2;
+    font-size: 14px;
+  }
+  .footer-container {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0px 1px 0px 0px;
+    box-sizing: border-box;
+    max-width: 100%;
+    flex-shrink: 0;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+    font-family: Poppins;
+  }
+  .term-condition {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    /* padding: 25px 0px 0px; */
+    box-sizing: border-box;
+    /* gap: 49px 0px; */
+    letter-spacing: normal;
+  }
+  
+  @media screen and (max-width: 1700px) {
+    .divcol-md-4 {
+      flex: 1;
+    }
+  
+    .divcolmd-1 {
+      flex: 1;
+    }
+  
+    .divfooter-1 {
+      flex-wrap: wrap;
+    }
+  
+    .divfooter-sub {
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  }
+  @media screen and (max-width: 1325px) {
+    .frame-links {
+      display: none;
+    }
+  
+    .divcolmd-1 {
+      min-width: 100%;
+    }
+  
+    .terms-conditions-link {
+      flex-wrap: wrap;
+    }
+  
+    .divfooter-sub {
+      padding-left: 156px;
+      padding-right: 112px;
+      box-sizing: border-box;
+    }
+  }
+  @media screen and (max-width: 900px) {
+    .frame-links {
+      gap: 0px 67px;
+    }
+  
+    .heading-2 {
+      font-size: 38px;
+      line-height: 48px;
+    }
+  
+    /* .footer-frame {
+      gap: 49px 0px;
+    } */
+  
+    .divcol-md-4 {
+      min-width: 100%;
+    }
+  
+    .terms-conditions-link {
+      gap: 0px 38px;
+    }
+  
+    .divfooter-sub {
+      padding-left: 78px;
+      padding-right: 56px;
+      box-sizing: border-box;
+    }
+  
+    .montyesimcom-by-htmltodesig {
+      gap: 49px 0px;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .frame-links {
+      gap: 0px 67px;
+    }
+  
+    .heading-2 {
+      font-size: 29px;
+      line-height: 36px;
+    }
+  
+    .phone {
+      font-size: 16px;
+      line-height: 24px;
+    }
+  
+    .email1 {
+      font-size: 16px;
+      line-height: 24px;
+    }
+  
+    .office {
+      font-size: 16px;
+      line-height: 24px;
+    }
+  }
+  

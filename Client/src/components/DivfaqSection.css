@@ -1,0 +1,422 @@
+.easy-and-fast2 {
+  flex: 1;
+  position: relative;
+  line-height: 27px;
+}
+
+.contact-arrowa4cb5823svg-icon6 {
+  height: 23px;
+  width: 23px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+
+.easy-and-fast-parent,
+.frame-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.easy-and-fast-parent {
+  flex: 1;
+  align-items: center;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: 0 7px;
+}
+
+.frame-wrapper {
+  width: 188px;
+  align-items: flex-start;
+  padding: 0 0 0 var(--padding-lg);
+  box-sizing: border-box;
+}
+
+.heading-111 {
+  margin: 0;
+  height: 54px;
+  position: relative;
+  font-size: var(--font-size-21xl);
+  line-height: 62px;
+  font-weight: 700;
+  font-family: inherit;
+  color: var(--color-coral);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+
+.subscribe-to-learn {
+  position: relative;
+  line-height: 27px;
+  font-weight: 300;
+}
+
+.frame-parent6 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px 0;
+  max-width: 100%;
+}
+
+.divfaq-section-inner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 0 var(--padding-12xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+.heading-5-plus-circlede8b34 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.heading-51 {
+  position: relative;
+  line-height: 28px;
+  font-weight: 300;
+}
+
+.contactarrowacbsvg {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0 16px;
+  max-width: 100%;
+}
+
+.heading-5-plus-circlede8b341 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.heading-52 {
+  position: relative;
+  line-height: 28px;
+  font-weight: 300;
+}
+
+.contactarrowacbsvg1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0 16px;
+}
+
+.heading-5-plus-circlede8b342 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.heading-53 {
+  position: relative;
+  line-height: 28px;
+  font-weight: 300;
+}
+
+.contactarrowacbsvg2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0 16px;
+  max-width: 100%;
+}
+
+.heading-5-plus-circlede8b343 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.heading-54 {
+  position: relative;
+  line-height: 28px;
+  font-weight: 300;
+}
+
+.contactarrowacbsvg3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0 16px;
+}
+
+.heading-5-plus-circlede8b344 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.heading-55 {
+  position: relative;
+  line-height: 28px;
+  font-weight: 300;
+}
+
+.contactarrowacbsvg4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0 16px;
+  max-width: 100%;
+}
+
+.heading-5-plus-circlede8b345 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.heading-56 {
+  position: relative;
+  line-height: 28px;
+  font-weight: 300;
+}
+
+.contactarrowacbsvg5 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0 16px;
+  max-width: 100%;
+}
+
+.heading-5-plus-circlede8b346 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.heading-57 {
+  position: relative;
+  line-height: 28px;
+  font-weight: 300;
+}
+
+.contactarrowacbsvg6 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0 16px;
+}
+
+.heading-5-plus-circlede8b347 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.heading-58 {
+  flex: 1;
+  position: relative;
+  line-height: 28px;
+  font-weight: 300;
+  display: inline-block;
+  max-width: calc(100% - 40px);
+  flex-shrink: 0;
+}
+
+.contactarrowacbsvg7 {
+  width: 545px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0 16px;
+  max-width: 100%;
+}
+
+.heading-5-plus-circlede8b348 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.heading-59 {
+  position: relative;
+  line-height: 28px;
+  font-weight: 300;
+}
+
+.contactarrowacbsvg8 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0 16px;
+}
+
+.heading-5-plus-circlede8b349 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.heading-510 {
+  position: relative;
+  line-height: 28px;
+  font-weight: 300;
+}
+
+.contactarrowacbsvg-parent,
+.contactarrowacbsvg9 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0 16px;
+  max-width: 100%;
+}
+
+.contactarrowacbsvg-parent {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 30px 0;
+  text-align: left;
+  color: var(--color-gray-500);
+}
+
+.whatsapp-logo6d974d7esvg-icon4 {
+  width: 280px;
+  height: 178.8px;
+  position: fixed;
+  right: -1%;
+  bottom: -1%;
+  z-index: 10;
+  margin: 0 !important;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  animation: jump 2.5s infinite linear;
+  cursor: pointer;
+}
+@keyframes jump {
+  0% {
+    transform: translateY(20px);
+  }
+
+  40% {
+    transform: translateY(0px);
+  }
+
+  80% {
+    transform: translateY(20px);
+  }
+
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+.divfaq-section {
+  align-self: stretch;
+  background-color: var(--www-montyesim-com-checkout-1920x1080-default-alice-blue);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-45xl) var(--padding-98xl) var(--padding-101xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: 102px 0;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-slategray-200);
+  font-family: var(--www-montyesim-com-checkout-1920x1080-default-poppins-light-17);
+}
+.contactarrowacbsvg9,
+.contactarrowacbsvg8,
+.contactarrowacbsvg7,
+.contactarrowacbsvg6,
+.contactarrowacbsvg5,
+.contactarrowacbsvg4,
+.contactarrowacbsvg3,
+.contactarrowacbsvg2,
+.contactarrowacbsvg1,
+.contactarrowacbsvg{
+  cursor: pointer;
+}
+
+@media screen and (max-width: 1200px) {
+  .divfaq-section {
+    padding: var(--padding-23xl) var(--padding-39xl) var(--padding-59xl);
+    box-sizing: border-box;
+  }
+}
+
+@media screen and (max-width: 825px) {
+  .heading-111 {
+    font-size: var(--font-size-13xl);
+    line-height: 50px;
+  }
+
+  .contactarrowacbsvg-parent {
+    gap: 70px 0;
+  }
+
+  .divfaq-section {
+    gap: 102px 0;
+    padding: var(--padding-8xl) var(--padding-10xl) var(--padding-32xl);
+    box-sizing: border-box;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .heading-111 {
+    font-size: var(--font-size-5xl);
+    line-height: 37px;
+  }
+
+  .contactarrowacbsvg-parent {
+    gap: 70px 0;
+  }
+
+  .divfaq-section {
+    gap: 102px 0;
+  }
+  .whatsapp-logo6d974d7esvg-icon4{
+    height: 150px;
+    width: 250px;
+  }
+}

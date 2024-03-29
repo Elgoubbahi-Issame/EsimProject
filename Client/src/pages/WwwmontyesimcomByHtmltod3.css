@@ -1,0 +1,200 @@
+.navigation-link-esim20log3 {
+  align-self: stretch;
+  height: 40px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.link {
+  width: 121px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-sm) 0 0;
+  box-sizing: border-box;
+}
+.link-plans3 {
+  position: relative;
+  line-height: 22.5px;
+  font-weight: 600;
+  flex-shrink: 0;
+}
+.link-how3 {
+  white-space: nowrap;
+}
+.link-about3,
+.link-contact6,
+.link-how3,
+.link-partnership3 {
+  position: relative;
+  line-height: 22.5px;
+  font-weight: 600;
+  flex-shrink: 0;
+}
+.link-about3,
+.link-contact6 {
+  white-space: nowrap;
+}
+.link-plans-group {
+  height: 23px;
+  width: 648px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+  gap: 0 67px;
+  max-width: 100%;
+}
+.en3 {
+  position: relative;
+  line-height: 21px;
+  text-transform: capitalize;
+}
+.drop-arrowed3f48dfsvg-icon3 {
+  height: 21px;
+  width: 10px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.navigation4 {
+  align-self: stretch;
+  border-radius: var(--br-81xl);
+  background-color: var(
+    --www-montyesim-com-checkout-1920x1080-default-athens-gray
+  );
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) var(--padding-2xs) var(--padding-4xs)
+    var(--padding-sm);
+  gap: 0 3px;
+  font-size: var(
+    --www-montyesim-com-checkout-1920x1080-default-poppins-medium-14-size
+  );
+  color: var(--www-montyesim-com-checkout-1920x1080-default-shark1);
+}
+.navigation-wrapper,
+.navigation3 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.navigation3 {
+  align-self: stretch;
+  width: 1434px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 var(--padding-11xs) 0 0;
+  gap: var(--gap-xl);
+}
+.navigation-wrapper {
+  width: 1754px;
+  height: 40px;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  text-align: center;
+  font-size: var(
+    --www-montyesim-com-checkout-1920x1080-default-poppins-semibold-15-size
+  );
+  color: var(--www-montyesim-com-checkout-1920x1080-default-black);
+  font-family: var(
+    --www-montyesim-com-checkout-1920x1080-default-poppins-light-17
+  );
+}
+.heading-11 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 62px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.heading-5 {
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 27px;
+  font-weight: 300;
+  color: var(--color-slategray-200);
+}
+.footer-section {
+  align-items: center;
+  padding: 0 var(--padding-xl) 60px;
+  box-sizing: border-box;
+  gap: 25px 0;
+  max-width: 100%;
+}
+.footer-section,
+.whats-app-logo,
+.wwwmontyesimcom-by-htmltod4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.whats-app-logo {
+  align-self: stretch;
+  align-items: center;
+  /* gap: 64px 0; */
+  max-width: 100%;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: 39px;
+  color: var(--color-coral);
+  font-family: var(
+    --www-montyesim-com-checkout-1920x1080-default-poppins-light-17
+  );
+}
+.wwwmontyesimcom-by-htmltod4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--www-montyesim-com-checkout-1920x1080-default-nero);
+  align-items: flex-start;
+  /* padding: var(--padding-6xl) 0 var(--padding-86xl); */
+  box-sizing: border-box;
+  gap: 100px 0;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1325px) {
+  /* .whats-app-logo {
+    gap: 64px 0;
+  } */
+  .wwwmontyesimcom-by-htmltod4 {
+    gap: 100px 0;
+  }
+}
+@media screen and (max-width: 900px) {
+  .link-plans-group {
+    display: none;
+    gap: 0 67px;
+  }
+  .navigation3 {
+    width: 786px;
+  }
+  .heading-11 {
+    font-size: 31px;
+    line-height: 50px;
+  }
+  .whats-app-logo {
+    gap: 64px 0;
+  }
+  .wwwmontyesimcom-by-htmltod4 {
+    gap: 197px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .link-plans-group {
+    gap: 0 67px;
+  }
+  .heading-11 {
+    font-size: 23px;
+    line-height: 37px;
+  }
+}

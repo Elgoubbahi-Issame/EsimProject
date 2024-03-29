@@ -1,0 +1,81 @@
+.link-contact13,
+.link-privacy6,
+.link-terms7 {
+  position: relative;
+  line-height: 21px;
+  font-weight: 300;
+  flex-shrink: 0;
+}
+.link-contact13 {
+  flex: 1;
+  display: inline-block;
+  min-width: 60px;
+  max-width: 100%;
+}
+.footer-col {
+  width: 1004px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+  gap: 0 37px;
+  max-width: 100%;
+}
+.monty-esim9 {
+  position: relative;
+  line-height: 21px;
+  font-weight: 300;
+  text-align: right;
+}
+.divfooter-sub7 {
+  align-self: stretch;
+  background-color: var(--color-coral);
+  border-top: 1px solid var(--www-montyesim-com-checkout-1920x1080-default-nero);
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: var(--padding-23xl) var(--padding-207xl) var(--padding-23xl)
+    var(--padding-292xl);
+  gap: var(--gap-xl);
+  max-width: 100%;
+  z-index: 1;
+  text-align: center;
+  font-size: var(
+    --www-montyesim-com-checkout-1920x1080-default-poppins-medium-14-size
+  );
+  color: var(--www-montyesim-com-checkout-1920x1080-default-nero);
+  font-family: var(
+    --www-montyesim-com-checkout-1920x1080-default-poppins-light-17
+  );
+}
+@media screen and (max-width: 1700px) {
+  .divfooter-sub7 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 1325px) {
+  .footer-col {
+    flex-wrap: wrap;
+  }
+  .divfooter-sub7 {
+    padding-left: var(--padding-136xl);
+    padding-right: var(--padding-94xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .footer-col {
+    gap: 0 37px;
+  }
+  .divfooter-sub7 {
+    padding-left: var(--padding-58xl);
+    padding-right: var(--padding-37xl);
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,57 @@
+.easy-iconf11bd8cdsvg1 {
+  height: 48px;
+  width: 47px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.easy-to-acquire {
+  position: relative;
+  line-height: 19.84px;
+}
+.acquiring-an-esim,
+.the-switch-to {
+  margin: 0;
+}
+.acquiring-an-esim-container {
+  position: relative;
+  line-height: 19.84px;
+  font-weight: 300;
+}
+.framedownload-app,
+.qr-curves {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.qr-curves {
+  flex: 1;
+  flex-direction: column;
+  gap: 4px 0;
+  min-width: 433px;
+}
+.framedownload-app {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 0 24px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-slategray-200);
+  font-family: var(
+    --www-montyesim-com-checkout-1920x1080-default-poppins-light-17
+  );
+}
+@media screen and (max-width: 900px) {
+  .qr-curves {
+    min-width: 100%;
+  }
+  .framedownload-app {
+    flex-wrap: wrap;
+  }
+
+  .framedownload-app {
+    width: 100%;
+  }
+  
+}

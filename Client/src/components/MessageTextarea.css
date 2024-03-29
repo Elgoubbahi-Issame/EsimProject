@@ -1,0 +1,80 @@
+.contact-arrowa4cb5823svg-icon5 {
+  width: 30px;
+  height: 30px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.parent-how-can-i-contact-c-s {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs) var(--padding-4xs) 0;
+}
+.contact-us3 {
+  position: relative;
+  line-height: 27px;
+}
+.easyand-fast-label,
+.question-group {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.easyand-fast-label {
+  align-items: flex-end;
+  gap: 0 8px;
+}
+.question-group {
+  align-items: flex-start;
+  padding: 0 var(--padding-12xl) 0 0;
+}
+.heading-110 {
+  margin: 0;
+  height: 54px;
+  position: relative;
+  font-size: var(--font-size-21xl);
+  line-height: 62px;
+  font-weight: 700;
+  font-family: inherit;
+  color: var(--color-coral);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.for-all-inquiries2 {
+  position: relative;
+  line-height: 27px;
+  font-weight: 300;
+}
+.message-textarea2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-2xs);
+  box-sizing: border-box;
+  gap: 16px 0;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-slategray-200);
+  font-family: var(
+    --www-montyesim-com-checkout-1920x1080-default-poppins-light-17
+  );
+}
+@media screen and (max-width: 825px) {
+  .heading-110 {
+    font-size: var(--font-size-13xl);
+    line-height: 50px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-110 {
+    font-size: var(--font-size-5xl);
+    line-height: 37px;
+  }
+}
