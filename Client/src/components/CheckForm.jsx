@@ -25,6 +25,7 @@ export default function CheckoutForm({
     const [showButtons, setShowButtons] = useState(false);
     const [isSucceeded, setisSucceeded] = useState();
     const [countdown, setCountdown] = useState(10);
+    const apiUrl = process.env.REACT_APP_API_URL;
     useEffect(() => {
         setTimeout(() => {
             setShowButtons(true);
@@ -32,9 +33,6 @@ export default function CheckoutForm({
         if (!stripe) {
             return;
         }
-        // const clientSecret = new URLSearchParams(window.location.search).get(
-        //     "payment_intent_client_secret"
-        // );
 
         if (!clientSecret) {
             return;
@@ -59,7 +57,7 @@ export default function CheckoutForm({
         }
     }, [isSucceeded, stripe, countdown, navigate]);
     const confirmPayment = async () => {
-        fetch("http://localhost:3001/api/confirm-payment", {
+        fetch(apiUrl + "confirm-payment", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify(
@@ -147,7 +145,7 @@ export default function CheckoutForm({
                 </button>
                 <button id="cancel" onClick={
                     async () => {
-                        const response = await fetch("http://localhost:3001/api/cancel-payment", {
+                        const response = await fetch(apiUrl + "cancel-payment", {
                             method: "POST",
                             headers: {
                                 "Content-Type": "application/json"

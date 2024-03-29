@@ -35,13 +35,13 @@ const WwwmontyesimcomByHtmltod7 = () => {
   const [Checked, setChecked] = useState(false);
   const [Checkout, setCheckout] = useState(false);
   const [isSucceeded, setisSucceeded] = useState(false);
-
+  const apiUrl = process.env.REACT_APP_API_URL;
   const handleData = (data) => {
     setisSucceeded(data);
   };
   useEffect(() => {
     // Create PaymentIntent as soon as the page loads
-    fetch("http://localhost:3001/api/create-payment-intent", {
+    fetch(apiUrl + "create-payment-intent", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(

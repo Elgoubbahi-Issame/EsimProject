@@ -20,8 +20,8 @@ const CountryFlags = ({
   const [expandedIndex, setexpandedIndex] = useState(null)
   const [data, setData] = useState([]);
   const [isPending, setIsPending] = useState(true);
+  const apiUrl = process.env.REACT_APP_API_URL;
   useEffect(() => {
-    const apiUrl = process.env.REACT_APP_API_URL;
     const fetchCountries = async () => {
       try {
         const result = await axios.get(apiUrl + 'Countries');

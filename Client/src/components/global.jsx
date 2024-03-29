@@ -11,22 +11,20 @@ const [searching, setsearching] = useState(false)
     const [iso2code, setiso2code] = useState([]);
     const [data, setData] = useState([]);
     const [isPending, setIsPending] = useState(true);
+    const apiUrl = process.env.REACT_APP_API_URL;
     useEffect(() => {
         const fetchGlobal = async () => {
             
             try {
-                const result = await axios.get('http://localhost:3001/api/Global');
+                const result = await axios.get(apiUrl + 'Global');
                 setData(result.data);
                 setIsPending(false);
             } catch (error) {
                 console.error(`Error occurred while fetching data: ${error}`);
                 setIsPending(false);
             }
-        
-            // console.log(data);
         };
         if (!search || search.length <= 0) fetchGlobal()
-        // console.log(search);    
     }, []);
     useEffect(() => {
         if (search && search.length > 0) {

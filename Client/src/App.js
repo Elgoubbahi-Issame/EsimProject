@@ -15,7 +15,7 @@ import WwwmontyesimcomByHtmltod4 from "./pages/WwwmontyesimcomByHtmltod4";
 import WwwmontyesimcomByHtmltod6 from "./pages/WwwmontyesimcomByHtmltod6";
 import WwwmontyesimcomByHtmltod7 from "./pages/WwwmontyesimcomByHtmltod7";
 import WwwmontyesimcomByHtmltod9 from "./pages/WwwmontyesimcomByHtmltod9";
-// import WwwmontyesimcomByHtmltod8 from "./pages/Term&Condition";
+import WwwmontyesimcomByHtmltod8 from "./pages/Term&Condition";
 
 function App() {
   const action = useNavigationType();
@@ -124,10 +124,10 @@ function App() {
         path="/payment-status"
         element={<WwwmontyesimcomByHtmltod9 />}
       />
-      {/* <Route
+      <Route
         path="/term-condition"
         element={<WwwmontyesimcomByHtmltod8 />}
-      /> */}
+      />
     </Routes>
   );
 }

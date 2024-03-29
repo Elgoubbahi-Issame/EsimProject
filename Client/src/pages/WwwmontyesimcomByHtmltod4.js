@@ -60,19 +60,18 @@ const WwwmontyesimcomByHtmltod4 = () => {
   const [data, setData] = useState([]);
   const [search, setsearch] = useState([]);
   const [countryOptions, setcountryOptions] = useState([])
+  const apiUrl = process.env.REACT_APP_API_URL;
   useEffect(() => {
     const getCountries = async () => {
       try {
-        const result = await axios.get('http://localhost:3001/api/Countries');
+        const result = await axios.get(apiUrl + 'Countries');
         setData(result.data);
-        // setIsPending(false);
         setcountryOptions(result.data.countries.map((item) => ({
           value: item.iso3_code, 
           label: item.country_name 
         })));
       } catch (error) {
         console.error(`Error occurred while fetching data: ${error}`);
-        // setIsPending(false);
       }
 
     };
@@ -108,15 +107,6 @@ const WwwmontyesimcomByHtmltod4 = () => {
     }
   }, [location]);
 
-  // function toggleTab(e) {
-  //   const tabs = document.querySelectorAll('.tab-1');
-  //   tabs.forEach(btn => {
-  //     btn.classList.remove('t-r-s-v-g');
-  //     btn.classList.add('button1');
-  //   });
-  //   e.currentTarget.classList.remove('button1');
-  //   e.currentTarget.classList.toggle('t-r-s-v-g');
-  // }
   const navigate = useNavigate();
   const [isActive, setIsActive] = useState(false);
   const [selectedOptions, setSelectedOptions] = useState([]);
@@ -132,7 +122,7 @@ const WwwmontyesimcomByHtmltod4 = () => {
     console.log(countryNames);
     if(countryNames.length > 0){ 
       try {
-      const result = await axios.get('http://localhost:3001/api/AllCountries', {
+      const result = await axios.get( apiUrl + 'AllCountries', {
         params: {
           countries_req: countryNames
         }

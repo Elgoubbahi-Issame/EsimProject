@@ -15,27 +15,22 @@ const CountryFlags = ({
   const [expandedIndex, setexpandedIndex] = useState(null)
   const [data, setData] = useState([]);
   const [isPending, setIsPending] = useState(true);
-
+  const apiUrl = process.env.REACT_APP_API_URL;
   useEffect(() => {
 
     const fetchRegions = async () => {
       try {
-        const result = await axios.get('http://localhost:3001/api/AllRegions');
+        const result = await axios.get(apiUrl + 'AllRegions');
         setData(result.data);
         setIsPending(false);
       } catch (error) {
         console.error(`Error occurred while fetching data: ${error}`);
         setIsPending(false);
       }
-
-      // console.log(data);
     };
     fetchRegions()
   }, []);
 
-  // const handleToggle = (index) => {
-  //   setexpand(index === expand ? null : index);
-  // };
   return (
       <>
         {isPending && <div className="country-flags1" style={{ height: "200px", alignItems: "center" }}><div class="loader"></div></div>}
