@@ -105,8 +105,6 @@ const getAllBundles = async (access_token, iso3_code, retries = 3) => {
         method: 'get',
         maxBodyLength: Infinity,
         url: process.env.API_URL + `/Bundles?country_code=${iso3_code}&sort_by=price_asc&reseller_admin_view=true`,
-        // url: `https://resellerapi.montyesim.com/api/v0/Bundles?country_code=${iso3_code}&sort_by=price_asc&reseller_admin_view=true`,
-        // url: `https://resellerapi.montyesim.com/api/v0/Bundles?country_code=${country_code}&bundle_category=${bundle_category}&page_size=25&page_number=1&bundle_name=${bundle_name}&sort_by=price_asc&reseller_admin_view=true&region_code=${region_code}`,
         headers: {
             'Access-Token': access_token
         }
@@ -116,7 +114,6 @@ const getAllBundles = async (access_token, iso3_code, retries = 3) => {
         try {
             const response = await axios(config);
             let bundles = response.data.bundles.filter(bundle => bundle.is_active );
-            // let bundles = response.data.bundles.filter(bundle => bundle.is_active && (bundle.bundle_category === 'region' || bundle.bundle_category === 'country'));
             return JSON.stringify({
                 bundles: bundles
             });
@@ -134,8 +131,7 @@ const getBundlesOfReg = async (access_token, region_code, region_name) => {
         method: 'get',
         maxBodyLength: Infinity,
         url: process.env.API_URL + `/Bundles?sort_by=price_asc&reseller_admin_view=true&region_name=${region_name}&region_code=${region_code}`,
-        // url: `https://resellerapi.montyesim.com/api/v0/Bundles?bundle_category=region&bundle_category=global&sort_by=price_asc&reseller_admin_view=true&region_name=${region_name}&region_code=${region_code}`,
-        headers: {
+         headers: {
             'Access-Token': access_token
         }
     };
@@ -370,9 +366,6 @@ app.get('/api/AllRegions', async (req, res) => {
     }
 });
 
-
-// app.use(express.static("public"));
-// app.use(express.json());
 
 const calculateOrderAmount = (item) => {
     // Replace this constant with a calculation of the order's amount
